@@ -155,5 +155,3 @@ Zawiera w sobie elementy takie jak:
 | transaction        | Double                             | Liczba zmiennoprzecinkowa zaokrąglona do dwóch miejsc po przecinku |
 | status             | Enum{Pending, Completed. Canceled} | Enum wymaganego typu                                               |
 
-### Trans
-
